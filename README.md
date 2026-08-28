@@ -4,6 +4,8 @@ To perform data analytics on a given dataset using Python and Pandas, understand
 # THEORY
 <img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/0f16fb57-0e4d-49ed-899f-8d790d05af4c" />
 ![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 
 # RESULT
